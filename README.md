@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Advanced Python
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 You can reach me at my email Alfredo 10152002@gmail.com
+- 📫 You can reach me at my email Alfredo10152002@gmail.com
 
 <!---
 02cabanas/02cabanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
